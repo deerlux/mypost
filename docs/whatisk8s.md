@@ -1,7 +1,5 @@
-title: 什么是kubernetes 
-date: 2016-03-17 12:58:01
-tags: Linux 云计算
----
+Kubernetes是什么
+----
 
 【译者按】译自[kubernetes官网文档](http://kubernetes.io/docs/whatisk8s/)，主要介绍kubernetes的基本概念以及应用场景，K8s的设计理念，以及K8s能干什么不能干什么。
 
